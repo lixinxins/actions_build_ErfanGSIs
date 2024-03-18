@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://mirrors.lolinet.com/firmware/lenomola/eqs_retcn/official/RETCN/XT2241-1_EQS_RETCN_13_T1SQ33.111-12-19_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-  ROM_NAME: myui6
+  ROM_NAME: myui14
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
